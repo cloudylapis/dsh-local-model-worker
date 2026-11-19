@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "本地模型按需启停",
+    "description": "只在用到本地模型时才启动它。在 设置 → 模型 底部的卡片里选择 LM Studio、Ollama、llama.cpp 或自定义命令，DSH 会在第一个请求前拉起服务，并在空闲一段时间后卸载。",
+    "detail": "docs/DETAIL.md"
+  }
+}

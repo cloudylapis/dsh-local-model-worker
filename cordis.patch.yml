@@ -1,0 +1,5 @@
+# Layer added by dsh-local-model-worker: a Host entry that registers the
+# local_model tool and a loopback RPC channel the composer button calls.
+- insert:
+    - id: local-model-worker
+      name: dsh-local-model-worker

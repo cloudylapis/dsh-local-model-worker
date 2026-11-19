@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Local model on demand",
+    "description": "Loads a local model server only when it is used. Pick LM Studio, Ollama, llama.cpp, or a custom command in the card at the bottom of Settings → Models; DSH starts the server before the first request and unloads it once it sits idle.",
+    "detail": "docs/DETAIL.md"
+  }
+}
