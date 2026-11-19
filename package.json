@@ -16,7 +16,7 @@
     "locale/*.json",
     "docs",
     "icon.svg",
-    "assets/icon.png",
+    "assets/icon-180.png",
     "README.md",
     "LICENSE"
   ],
